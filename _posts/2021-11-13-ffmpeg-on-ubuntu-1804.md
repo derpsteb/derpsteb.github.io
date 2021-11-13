@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
-title: How to run ffmpeg-4.4 on Ubuntu 18.04 LTS
+title: How to install ffmpeg-4.4 on Ubuntu 18.04 LTS
 author: Otto Bittner
 date:   2021-11-13
 tags: nix ubuntu ffmpeg ffplay
