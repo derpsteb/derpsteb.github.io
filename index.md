@@ -2,10 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: post
-author: Otto
-date: 13.11.2021
-title: First post
+layout: default
 ---
 
-Works now.
+[How to run ffmpeg-4.4 on Ubuntu 18.04 LTS](./_posts/2021-11-13-ffmpeg-on-ubuntu-1804.md)  
